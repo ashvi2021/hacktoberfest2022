@@ -13,6 +13,7 @@
 | ------|----------|---------- |
 | Aman Kumar | <a href="https://github.com/king04aman/">Aman Kumar</a> | <a href="mailto:aman.kumar@esportzvio.com">E-Mail</a> |
 | Sarwagya Singh | <a href="https://github.com/0xsarwagya/">Sarwagya Singh</a> | <a href="mailto:sarwagya.singh@esportzvio.com">E-Mail</a> |
+| Ashvi Gupta | <a href="https://github.com/ashvi2021/">Ashvi Gupta</a> |
 
 Thanks to everyone who helped in building this Repository :)
 
